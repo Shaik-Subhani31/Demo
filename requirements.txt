@@ -3,4 +3,4 @@ Pandas
 Numpy
 Matplotlib
 Seaborn
-scikit-learn==0.23.2
+py3-scikit-learn
